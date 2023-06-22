@@ -1,0 +1,171 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 915.798165938565,
+            "y": 0
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "1b7f28ba-7cc3-4cb9-96d0-e10cc961dafd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 25.533333333333303
+          },
+          "nodeIndex": "Cliente",
+          "nodeLineageTag": "e6eb0c38-1503-40b9-a298-24312accef85",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 277.23978717641728,
+            "y": 519.30530138909364
+          },
+          "nodeIndex": "Producto",
+          "nodeLineageTag": "7f40fa51-1184-4b46-a4ba-7615e83d0210",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 295.21972968843033
+        },
+        {
+          "location": {
+            "x": 1019.6922667191811,
+            "y": 520.215302916343
+          },
+          "nodeIndex": "ProductoCategoría",
+          "nodeLineageTag": "cf580725-65eb-4129-b02c-91be93933849",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7,
+          "expandedHeight": 204.68340267396127
+        },
+        {
+          "location": {
+            "x": 680.4813184704617,
+            "y": 512.82513922010833
+          },
+          "nodeIndex": "ProductoSubcategoría",
+          "nodeLineageTag": "bd6215c9-971c-4d37-b266-6b717f046ea0",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 5.8555991965411067,
+            "y": 371.85588504188127
+          },
+          "nodeIndex": "Territorio",
+          "nodeLineageTag": "615eecf0-d936-4506-9889-fcdbabb87046",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 291.99999999999994,
+            "y": 23.333333333333336
+          },
+          "nodeIndex": "Ventas",
+          "nodeLineageTag": "97a9ba0d-c0c9-4824-8ea5-96bdcfa6e1a8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 630.23782707203588,
+            "y": 244.39980763059742
+          },
+          "nodeIndex": "Devoluciones",
+          "nodeLineageTag": "9579a1c3-20a3-458a-a556-0cff196ba85f",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1197.7147932249495,
+            "y": 42.398334993884966
+          },
+          "nodeIndex": "DAX",
+          "nodeLineageTag": "57e8e1a9-e286-4318-a2a7-544bf0685c6e",
+          "size": {
+            "height": 268.50553977627362,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1573.1,
+            "y": 0
+          },
+          "nodeIndex": "FlujoDeCaja",
+          "nodeLineageTag": "40bce95c-2418-410a-818d-3204671e2a35",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1948.5,
+            "y": 0
+          },
+          "nodeIndex": "PorcentajeFlujoDeCaja",
+          "nodeLineageTag": "d2bbd1fc-461d-4127-8318-6e7a14a519ac",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 58.9645796317372,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
